@@ -6,6 +6,12 @@
 🔗 [LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/)  
 
 ---
+### Github Statistic
+<p align="left">
+<a href="https://github.com/penuliscode">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
+</a>
 
 ## 🚀 About Me  
 I’m passionate about **technology, consulting, and product development**.  
@@ -61,8 +67,9 @@ Some highlights of my journey so far:
 ---
 
 ## 🌟 Awards & Achievements  
-- 🏅 TF-LEaRN Awardee @ NTU Singapore (2025)  
-- 🥇 1st Place – Case Competition, 180DC UGM (2023 & 2024)  
+- 🏅 TF-LEaRN Awardee @ NTU Singapore (2025)
+- 🥇 1st Place – Case Competition, 180DC UGM (2024/2025)  
+- 🥇 1st Place – Case Competition, 180DC UGM (2023/2024)  
 - 🥇 1st Place – English Debate Competition, FMIPA UGM (2024)  
 - 🏆 Top 100 Finalist – Google Solution Challenge (2024)  
 - 🎓 Best Graduate – Yat Sen Secondary School, Fiji (2022)  
